@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ouvir é Cuidar</title>
+
+<style>
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background: #f1f8fc;
+color: #18334a;
+line-height: 1.7;
+}
+
+header {
+background: #126da5;
+color: white;
+text-align: center;
+padding: 35px 15px;
+}
+
+nav {
+background: #084e79;
+padding: 15px;
+text-align: center;
+}
+
+nav a {
+color: white;
+text-decoration: none;
+margin: 10px;
+font-weight: bold;
+}
+
+section {
+background: white;
+margin: 20px auto;
+padding: 25px;
+max-width: 850px;
+border-radius: 12px;
+}
+
+h2 {
+color: #126da5;
+}
+
+.destaque {
+background: #dceffa;
+padding: 18px;
+border-left: 5px solid #126da5;
+border-radius: 8px;
+}
+
+footer {
+background: #084e79;
+color: white;
+text-align: center;
+padding: 20px;
+}
+
+a:focus, button:focus {
+outline: 3px solid orange;
+outline-offset: 3px;
+}
+
+button {
+padding: 10px;
+border: none;
+border-radius: 6px;
+background: #126da5;
+color: white;
+cursor: pointer;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>OUVIR É CUIDAR</h1>
+<p>Cuide da sua audição. O excesso de som pode trazer consequências!</p>
+</header>
+
+<nav>
+<a href="#inicio">Início</a>
+<a href="#fones">Fones de ouvido</a>
+<a href="#audicao">Deficiência auditiva</a>
+<a href="#cuidados">Cuidados</a>
+</nav>
+
+<section id="inicio">
+<h2>Bem-vindo!</h2>
+<p>
+Este site foi criado para conscientizar as pessoas sobre
+a importância da saúde auditiva, principalmente para quem
+possui deficiência auditiva.
+</p>
+<p>
+A audição é importante para nossa comunicação e qualidade
+de vida. Por isso, devemos aprender a protegê-la.
+</p>
+</section>
+
+<section id="fones">
+<h2>O perigo do uso inadequado dos fones</h2>
+<p>
+Usar fones de ouvido com o volume muito alto e por muito
+tempo pode prejudicar a audição.
+</p>
+<div class="destaque">
+<strong>Você sabia?</strong>
+Sons muito intensos podem danificar as estruturas do ouvido
+interno e causar perda auditiva.
+</div>
+<p>
+Para pessoas que já possuem deficiência auditiva, novos
+danos podem dificultar ainda mais a percepção dos sons.
+</p>
+</section>
+
+<section id="audicao">
+<h2>O que é deficiência auditiva?</h2>
+<p>
+A deficiência auditiva é uma condição que dificulta
+a capacidade de ouvir sons. Ela pode ser leve, moderada,
+severa ou profunda.
+</p>
+<p>
+Cada pessoa possui necessidades diferentes e merece
+respeito, inclusão e acessibilidade.
+</p>
+</section>
+
+<section id="cuidados">
+<h2>Como proteger sua audição?</h2>
+<ul>
+<li>Evite ouvir músicas em volume muito alto.</li>
+<li>Faça pausas durante o uso dos fones.</li>
+<li>Evite ficar exposto a ruídos intensos.</li>
+<li>Use proteção auditiva em ambientes muito barulhentos.</li>
+<li>Procure um profissional de saúde se perceber mudanças na audição.</li>
+</ul>
+</section>
+
+<section>
+<h2>Nossa mensagem</h2>
+<div class="destaque">
+<p>
+A deficiência auditiva não define uma pessoa.
+Todos merecem respeito, inclusão e oportunidades.
+</p>
+<strong>Cuide da sua audição hoje para proteger seu futuro!</strong>
+</div>
+</section>
+
+<footer>
+<p>Projeto de conscientização sobre saúde auditiva.</p>
+<p>Ouvir é Cuidar
+2026</p>
+</footer>
+</body>
+</html>
